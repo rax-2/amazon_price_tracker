@@ -1,3 +1,9 @@
+# Advanced Automated Python Billing System
+# Copyright (C) 2025 Rakesh (AKA Pinaka)
+# Licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+# See LICENSE file for details.
+
+
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 from os import getenv
