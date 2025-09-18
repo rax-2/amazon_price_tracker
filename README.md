@@ -201,11 +201,14 @@ Contributions are welcome! 💌 Feel free to open **Issues** or submit **Pull Re
 ---
 
 ## 📜 License
+📄 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.  
+You are free to use, modify, and distribute this project for **personal, educational, or commercial purposes**,  
+but any derivative work **must remain open-source under the same license**, and credit to the original author must be preserved.  
 
-📄 This project is licensed under the [MIT License](LICENSE).
+See the full license text in the [LICENSE](LICENSE) file.
 
 ---
 
-<p align="center">💡 Built with ❤️ by <a href="https://github.com/rax-2">Pinaka</a></p>
+<p align="center">💡 Built with ❤️ by <a href="https://github.com/rax-2">Pinaka 🏹</a></p>
 
 ---
