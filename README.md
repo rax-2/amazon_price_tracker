@@ -8,9 +8,10 @@
 
 <!-- BADGES -->
 <p align="center">
-  <!-- License -->
-  <img src="https://img.shields.io/badge/License-MIT-green?style=plastic" alt="License"/>
-
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-AGPL--3.0-blue?style=plastic" alt="License"/>
+  </a>
+  
   <!-- Language -->
   <img src="https://img.shields.io/badge/Python-3.9+-blue?style=plastic&logo=python" alt="Python"/>
 
